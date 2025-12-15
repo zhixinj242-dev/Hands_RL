@@ -1,4 +1,4 @@
-# Projest Hands on learning Reinforcement Learning
+# 井治鑫开始实操了Projest Hands on learning Reinforcement Learning
 ## Reference
 Followed website: https://github.com/boyu-ai/Hands-on-RL/
 
